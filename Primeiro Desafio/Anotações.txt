@@ -1,0 +1,3 @@
+Link para download do Git: https://git-scm.com/downloads
+Utilizar o terminal GitBash para otimizar o uso do Git.
+Link para utilizar sintaxe básica: https://www.markdownguide.org/basic-syntax/
